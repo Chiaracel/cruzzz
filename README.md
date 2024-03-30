@@ -1,3 +1,2 @@
-# cruzzz
-My first repository on GitHub
-Bismillah
+#nextjs-dashboard
+
